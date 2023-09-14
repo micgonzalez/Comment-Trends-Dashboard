@@ -3,7 +3,7 @@ This dashboard is like one which included visual charts that conveyed weekly com
 
 
 # Introduction
-This repository displays a dashboard that is like what I created in my day job as a Data Analyst for The Disneyland Resort. The data set used for this repository is public data of Tripadvisor’s reviews for The Disneyland Resort. The reason is I’m not able to use the actual excel file due to its sensitive nature.
+This repository displays a dashboard that is like what I created in my day job as a Data Analyst for The Disneyland Resort. <b>The data set used for this repository is public data of Tripadvisor’s reviews for The Disneyland Resort. The reason is I’m not able to use the actual excel file due to its sensitive nature.</b>
 
 
 # Abstract
